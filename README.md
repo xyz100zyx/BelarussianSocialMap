@@ -1,0 +1,2 @@
+# BelarussianSocialMap
+BSM_test
